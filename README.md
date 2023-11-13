@@ -10,7 +10,7 @@ This work aims to use some sample dataset, analyze the data, build few ML models
 
 #### Rationale
 There are a couple primary beneficiaries. The finance organizations (credit card companies, insurance companies) directly deal with this loss.
-Innocent customers are impacted as well, where they lose their hard earned money if they have not taken insurance.
+Innocent customers are impacted as well, where they lose their hard earned money.
 
 #### Research Question
 Identify and prevent fraud transactions in credit cards in realtime and thereby protect customers from losing money and help finance companies well serve their customers better.
