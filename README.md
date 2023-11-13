@@ -22,7 +22,7 @@ This is a simulated credit card transaction dataset containing legitimate and fr
 It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
 #### Methodology
-We will go through the following stages - Problem Identification, Dataset Selection, Data Cleaning, Exploratory Analysis, Statistical Analysis, Build Machine Learning Models, Evaluate Models, Compare Models.
+We will go through the following stages - Problem Identification, Dataset Selection, Data Cleaning, Exploratory Analysis, Statistical Analysis, Build Machine Learning Models, Evaluate/Compare Models.
 We will use various classification techniques to arrive at a best model for fraud detection.
 
 #### Results
