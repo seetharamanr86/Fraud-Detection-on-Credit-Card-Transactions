@@ -3,8 +3,6 @@ This repo contains ML model and analysis used for detecting fraud in credit card
 
 **Seetharaman Rajendran**
 
-Notebook: capstone - [credit card fraud analysis.ipynb](https://github.com/seetharamanr86/Fraud-Detection-on-Credit-Card-Transactions/blob/main/capstone%20-%20credit%20card%20fraud%20analysis.ipynb)
-
 #### Executive summary
 Per Nilson's report in 2022, payments industry in the United States is expected to incur $165 billion loss in the next 10 yrs due to fraudulent use of credit cards.
 It can be largely reduced by building a more robust fraud detection system using machine learning models. 
@@ -37,7 +35,7 @@ Also, building a deployable model could be more practical. Additional efforts in
 parameter driven python function, with API and appropriate end point for easy access could make this model more useful.
 
 #### Outline of project
-- [Link to notebook]()
+Notebook: capstone - [credit card fraud analysis.ipynb](https://github.com/seetharamanr86/Fraud-Detection-on-Credit-Card-Transactions/blob/main/capstone%20-%20credit%20card%20fraud%20analysis.ipynb)
 
 ##### Contact and Further Information
 Seetharaman Rajendran
