@@ -25,29 +25,24 @@ It covers credit cards of 1000 customers doing transactions with a pool of 800 m
 We will go through the following stages - Problem Identification, Dataset Selection, Data Cleaning, Exploratory Analysis, Statistical Analysis, Build Machine Learning Models, Evaluate/Compare Models.
 We will use various classification techniques to arrive at a best model for fraud detection.
 
-#### Results
+#### Results / Findings
 Results based on the research are as follows.
-
 LR Accuracy: 82.135% LR Precision: 86.269% LR Recall: 76.430% LR F1_Score: 81.052%
 KNN Accuracy: 91.631% KNN Precision: 89.298% KNN Recall: 94.598% KNN F1_Score: 91.872%
 SVM Accuracy: 96.160% SVM Precision: 97.059% SVM Recall: 95.205% SVM F1_Score: 96.123%
 
 After evaluating the models, gives an idea how the classification models are performing.
-
 We have used the hyper parameters to tune to get the best model possible in each category, then compared various scores with one another.
 
 SVM model provides a better accuracy compared to other models.
 SVM model provides a better precision compared to other models.
 SVM model provides a better recall compared to other models.
 SVM model provides a better f1 score compared to other models.
-
 KNN stands next to SVM in terms of scores, from above evaluation.
 
 #### Next steps
 Find out the deployment strategry to use the model for fraud detection in real time.
-
 The key for success would be to plug this model in a real time environment and make it improve by itself, learning from training using real time data.
-
 This model alone cannot solve the larger problem of mitigating fraud but this can help identify the fraud transaction and together with other well management processes, this can contribute towards fraud detection and prevention overall. 
 
 #### Outline of project
